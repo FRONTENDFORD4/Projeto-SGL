@@ -1,4 +1,54 @@
 {
-  "usuarios": [],
-  "livros": []
+  "Usuarios": [
+    {
+      "NomeUsuario": "Mario",
+      "IdadeUsuario": 25,
+      "EnderecoUsuario": "Avenida das astros, 1456",
+      "EmailUsuario": "mario@email.com",
+      "TelefoneUsuario": "1192099900",
+      "id": "569f"
+    },
+    {
+      "id": "677f",
+      "NomeUsuario": "Rondinele",
+      "IdadeUsuario": "21",
+      "EnderecoUsuario": "Rua Moreira de Godói, 226",
+      "EmailUsuario": "rondinele@gmail.com",
+      "TelefoneUsuario": "11985645333"
+    },
+    {
+      "id": "af30",
+      "NomeUsuario": "Nunca mais",
+      "IdadeUsuario": "17",
+      "EnderecoUsuario": "Av mogi,3555",
+      "EmailUsuario": "teste@gmail.com",
+      "TelefoneUsuario": "119999999"
+    }
+  ],
+  "Livros": [
+    {
+      "NomeLivro": "O Pequeno Príncipe",
+      "AutorLivro": "Antoine de Saint-Exupéry",
+      "BiografiaLivro": "Um piloto cai com seu avião..... ",
+      "EdicaoLivro": "2012",
+      "EditoraLivro": "Editora atila",
+      "id": "60000f"
+    },
+    {
+      "id": "899",
+      "NomeLivro": "Código alfa",
+      "AutorLivro": "Eu",
+      "BiografiaLivro": "Não é não",
+      "EdicaoLivro": "25",
+      "EditoraLivro": "Alta merde"
+    },
+    {
+      "id": "af37",
+      "NomeLivro": "Código sem vergonha",
+      "AutorLivro": "Futa que Faril",
+      "BiografiaLivro": "356",
+      "EdicaoLivro": "14",
+      "EditoraLivro": "Alta & baixo"
+    }
+  ]
 }
